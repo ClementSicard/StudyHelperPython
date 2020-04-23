@@ -1,0 +1,10 @@
+// ENTER HERE THE LIST OF YOUR CLASSES
+// IT MUST BE THE NAME OF DIRECTORIES !
+
+course1
+course2
+course3
+course4
+course5
+course6
+course7
